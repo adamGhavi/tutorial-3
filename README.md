@@ -6,7 +6,7 @@ For this tutorial, I implemented a character using the Soldier spritesheet and g
 The player is able to jump mid-air.
 
 ### Better-Jump
-The player is able to adjust their jump-arc by how long the jump button is held down. This mechanic gives the player a finer locus of control and a more precise platforming experience. One classic example of this mechanic's implementation is the original NES Super Mario Bros.
+The player is able to adjust their jump-arc by how long the jump button is held down. This mechanic gives the player a finer locus of control and a more precise platforming experience. One classic example of this mechanic's implementation is the original NES Super Mario Bros. Incidentally, there is no actual name for this mechanic. "Better-jump" is just what I personally refer to it as, because I originally found the technique from a Unity tutorial calling it such.
 
 ### Slide
 The player is able to perform a tactical slide which effectively functions as a dash mechanic.
